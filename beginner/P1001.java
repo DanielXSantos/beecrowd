@@ -1,4 +1,4 @@
-package basic;
+package beginner;
 import java.io.IOException;
 
 public class P1001 {
